@@ -38,9 +38,11 @@ G-LOCK (Grav-Lock) é um conceito teórico de propulsão gravitacional, desenvol
 
 ## 🌌 Fórmulas Científicas Simplificadas
 
-- $$ r_s = \frac{2GM}{c^2} \quad \text{(Mini buraco negro)} $$
-- $$ ds^2 = -c^2 dt^2 + [dx - v_s(t) f(r_s) dt]^2 + dy^2 + dz^2 \quad \text{(Métrica de Alcubierre)} $$
-- $$ F = G \frac{m_1 m_2}{r^2} \quad \text{(Campo gravitacional artificial)} $$
+- rs = 2GM / c²   (Mini buraco negro)
+
+ds² = -c² dt² + [dx - vs(t) f(rs) dt]² + dy² + dz²   (Métrica de Alcubierre)
+
+F = G * m1 * m2 / r²   (Campo gravitacional artificial)
 
 ---
 
